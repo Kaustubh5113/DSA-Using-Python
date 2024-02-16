@@ -10,8 +10,10 @@ def SelectionSort(arr):
     for i in range(len(arr)):
         print("%d" %arr[i],end=" , ")
 
-arr=[6,7,5,47,9]
+arr=[22,4,8,7,20,50,700,25,20]
 print("Given unsorted array :")
 print(arr)
 print("sorted array :")
 SelectionSort(arr)
+
+
